@@ -2,9 +2,6 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
-[![Siin's GitHub stats](https://github-stats-extended.vercel.app/api?username=vcinon)](https://github.com/stats-organization/github-stats-extended)
-
-
 <div align="left">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vcinon&layout=donut-vertical&hide_title=true&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=vcinon&layout=donut-vertical&hide_title=true&langs_count=6&theme=midnight-purple)

@@ -7,6 +7,7 @@
 
 <div align="left">
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vcinon&layout=donut-vertical&hide_title=true&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=vcinon&layout=donut-vertical&hide_title=true&langs_count=6&theme=midnight-purple)
   
 ### 
   <a href="https://instagram.com/niche.siin" style="width: 100%; display: flex; justify-content: center;">

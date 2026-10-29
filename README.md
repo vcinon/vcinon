@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/mascot.gif" width="110" alt="Mascot" />
+
 [![GitHub followers](https://img.shields.io/github/followers/vcinon?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=1a1b27)](https://github.com/vcinon?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=vcinon&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/vcinon)
 
@@ -39,7 +41,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcinon&theme=midnight_purple" alt="Profile details" />
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=vcinon&layout=compact&hide_title=true&langs_count=8&theme=midnight-purple" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=vcinon&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=midnight-purple" alt="Top languages" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vcinon&theme=midnight_purple" alt="Repos per language" />
 
 </div>

@@ -1,28 +1,11 @@
 <div align="center">
 
-# Hey, I'm siin 👋
-
-**Security tooling · Go · Python · Linux**
-
-I build small, sharp tools for web security, privilege escalation, and
-self-hosted tinkering — plus the occasional chat app or Minecraft project.
-
 [![GitHub followers](https://img.shields.io/github/followers/vcinon?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=1a1b27)](https://github.com/vcinon?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=vcinon&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/vcinon)
 
 </div>
 
----
-
-## 🧑‍💻 About me
-
-- 🔭 Currently building **web security** and **Linux privesc** tooling
-- 🌱 Exploring Go, systems programming, and low-level Linux internals
-- 🐧 Daily-driving **Omarchy / Arch Linux**
-- 💬 Ask me about pentesting workflows, shell scripting, or self-hosting
-- ⚡ Fun fact: I automate the boring parts so I can break the interesting ones
-
-## 🛠️ Tech & tools
+## Tech & tools
 
 <div align="center">
 
@@ -37,18 +20,17 @@ self-hosted tinkering — plus the occasional chat app or Minecraft project.
 
 </div>
 
-## 📌 Featured projects
+## Repos
 
-| Project | What it does |
-| --- | --- |
-| [**websec-toolkit**](https://github.com/vcinon/websec-toolkit) | Python toolkit for web security testing |
-| [**lpe-toolkit**](https://github.com/vcinon/lpe-toolkit) | Multi-arch Linux privilege-escalation toolkit — auto-detects kernel, filters patched exploits, tries until root |
-| [**lemon**](https://github.com/vcinon/lemon) | Go project |
-| [**goover**](https://github.com/vcinon/goover) | Simple chat client |
-| [**pychat**](https://github.com/vcinon/pychat) | Simple Python chat app |
-| [**php-web-browser**](https://github.com/vcinon/php-web-browser) | Fetch otherwise-unreachable pages (router UI, localhost) without SSH tunneling |
+<div align="center">
 
-## 📊 GitHub stats
+<a href="https://github.com/vcinon/lemon"><img src="https://github-stats-extended.vercel.app/api/pin/?username=vcinon&repo=lemon&theme=midnight-purple&hide_border=true" alt="lemon" /></a>
+<a href="https://github.com/vcinon/goover"><img src="https://github-stats-extended.vercel.app/api/pin/?username=vcinon&repo=goover&theme=midnight-purple&hide_border=true" alt="goover" /></a>
+<a href="https://github.com/vcinon/pychat"><img src="https://github-stats-extended.vercel.app/api/pin/?username=vcinon&repo=pychat&theme=midnight-purple&hide_border=true" alt="pychat" /></a>
+
+</div>
+
+## GitHub stats
 
 <div align="center">
 
@@ -62,7 +44,7 @@ self-hosted tinkering — plus the occasional chat app or Minecraft project.
 
 </div>
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
@@ -70,10 +52,4 @@ self-hosted tinkering — plus the occasional chat app or Minecraft project.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/niche.siin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vcinon)
 
-</div>
-
----
-
-<div align="center">
-<sub>Thanks for stopping by — always open to collaborating on security & systems projects.</sub>
 </div>
